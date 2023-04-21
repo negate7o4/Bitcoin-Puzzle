@@ -1,0 +1,4 @@
+pip install ecdsa
+pip install bitcoinlib
+pip install gmpy2
+pip install bitcoin
